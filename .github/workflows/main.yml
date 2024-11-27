@@ -17,4 +17,4 @@
              GITHUB_TOKEN: ${{ secrets.TOKEN }}
            with:
              merge_method: merge
-             allow: 'Amirrasuli,vernamusic'
+             allow: 'Amirrasuli,vernamusic,amirvitruvian'
