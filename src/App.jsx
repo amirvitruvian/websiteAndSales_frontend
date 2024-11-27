@@ -10,6 +10,7 @@ import './app.css';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 import ScrollToTop from './ScrollToTop.jsx';
 
+
 const App = () => {
     return (
         <Router>
