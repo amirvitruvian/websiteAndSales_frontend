@@ -61,7 +61,7 @@ const customTheme = createTheme({
 
 const howData = [
     { title: 'ADSCC', description: "Development and Customer", image: Adscc ,Category: "Development",link:'https://adscc.ae/' },
-    { title: 'CHUV', description: "Development and Customer", image: CHUV ,Category: "Development",link:'https://www.chuv.ch/fr/neurologie/nlg-home/'},
+    // { title: 'CHUV', description: "Development and Customer", image: CHUV ,Category: "Development",link:'https://www.chuv.ch/fr/neurologie/nlg-home/'},
     { title: 'YAS', description: "Development and Customer", image: yas ,Category: "Development",link:'https://yashealthcare.ae/services/'},
     { title: 'HUG', description: "Development and Customer", image: hug ,Category: "Development",link:'https://www.hug.ch/'},
     { title: 'Santa Maria Lisbon', description: "Development and Customer", image: santamaria ,Category: "Development",link:'https://www.ulssm.min-saude.pt/'},
